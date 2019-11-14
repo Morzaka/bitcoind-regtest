@@ -21,7 +21,7 @@ docker pull lyubomyr/bitcoin-regtest:18.0
 
 ### Dockerhub:
 
-Image is available on dockerhub: <https://cloud.docker.com/repository/docker/lyubomyr/bitcoin-regtest>
+Image is available on dockerhub: <https://hub.docker.com/r/lyubomyr/bitcoin-regtest>
 
 ### Building
 
